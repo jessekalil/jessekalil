@@ -16,5 +16,4 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Javascript, Node.js, Vue, Linux**
-- 📫 How to reach me: [@jesse_kalil](https://twitter.com/jesse_kalil) on Twitter
 <!-- - ⚡ Fun fact: ... -->
